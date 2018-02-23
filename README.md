@@ -1,2 +1,11 @@
 # IWH
 SHE - To rule the world
+
+
+Our team chose the theme Innovation because we would like to deal with two connected problems of the society, namely education and empowerment. We, the to-be graduates, understand the importance of education in the life of a woman. We understand how education transforms a woman into something very different and gives her the power to achieve her goals. We see that now-a-days women are into everything, name it and we find women there. But the question is how many women are getting this opportunity?
+
+There are two categories of "she" that we would like consider 1. The young girls, who if educated and shown the right direction can do wonders 2. The women when taught a skill can become financially independent
+
+So the basic idea and the features we want to implement are as follows: Considering the case 1 of the young girls, we would provide them with online tutorials based on the age group. We will introduce them to all the subjects like science maths social and english. Not just these subjects we will also provide them with arts and crafts and best out of waste kind of creative tutorials. The infrastructure or the quality of teaching in their schools might not be upto mark and so this is an assistance to their learning. The government has already started the e-education where in interested people are teaching the goverment schools kids through skype. So another feature of our application is we will implement a similar kind of thing where anybody who wants to teach can come on a live session to interact with the kids and clarify their doubts probably once a week or some scheduled time, or we will inform through a notification etc... To empower the women, the feature we would like to implement is, we will provide them with tutorials of various skills like tailoring, stitching, quilling, bangle making, embroidery, cooking, etc... Another feature to this is, incase there is a job availability in tailoring or anything, somebody can post it in this app, and the women can contact them for further details.
+
+We being students from computer science background would like to put our best foot forward to use technology to lift up the society in every way possible and using our knowledge to reach out to the women brings in a great hope to see many Sheryl Sandbergs, Indra Nooyis in the coming future.
